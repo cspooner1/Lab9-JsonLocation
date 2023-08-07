@@ -1,0 +1,15 @@
+/Users/theboyz/Projects/Lab-9/Lab-9/bin/Debug/net7.0/Lab-9
+/Users/theboyz/Projects/Lab-9/Lab-9/bin/Debug/net7.0/Lab-9.deps.json
+/Users/theboyz/Projects/Lab-9/Lab-9/bin/Debug/net7.0/Lab-9.runtimeconfig.json
+/Users/theboyz/Projects/Lab-9/Lab-9/bin/Debug/net7.0/Lab-9.dll
+/Users/theboyz/Projects/Lab-9/Lab-9/bin/Debug/net7.0/Lab-9.pdb
+/Users/theboyz/Projects/Lab-9/Lab-9/obj/Debug/net7.0/Lab-9.csproj.AssemblyReference.cache
+/Users/theboyz/Projects/Lab-9/Lab-9/obj/Debug/net7.0/Lab-9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/theboyz/Projects/Lab-9/Lab-9/obj/Debug/net7.0/Lab-9.AssemblyInfoInputs.cache
+/Users/theboyz/Projects/Lab-9/Lab-9/obj/Debug/net7.0/Lab-9.AssemblyInfo.cs
+/Users/theboyz/Projects/Lab-9/Lab-9/obj/Debug/net7.0/Lab-9.csproj.CoreCompileInputs.cache
+/Users/theboyz/Projects/Lab-9/Lab-9/obj/Debug/net7.0/Lab-9.dll
+/Users/theboyz/Projects/Lab-9/Lab-9/obj/Debug/net7.0/refint/Lab-9.dll
+/Users/theboyz/Projects/Lab-9/Lab-9/obj/Debug/net7.0/Lab-9.pdb
+/Users/theboyz/Projects/Lab-9/Lab-9/obj/Debug/net7.0/Lab-9.genruntimeconfig.cache
+/Users/theboyz/Projects/Lab-9/Lab-9/obj/Debug/net7.0/ref/Lab-9.dll
